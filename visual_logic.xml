@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <tab name="Init" type="InitTab" active="false" scrollx="13" scrolly="0" scale="0.9"></tab>
-  <tab name="New Tab" type="CommonTab" active="true" scrollx="377.05853479270377" scrolly="387.48201339578327" scale="0.37688948287300034">
+  <tab name="New Tab" type="CommonTab" active="true" scrollx="-42.12473703674107" scrolly="369.4187574962501" scale="0.9070294784580493">
     <variables xmlns="https://developers.google.com/blockly/xml">
       <variable id="AvG!bHIkOD=k9HWoMG,R">xianyin</variable>
     </variables>
@@ -131,51 +131,57 @@
             <prop name="padding" shadowvalue="0px"></prop>
             <prop name="border" shadowvalue="none"></prop>
             <prop name="background-repeat" shadowvalue="no-repeat"></prop>
-            <prop name="background-size" shadowvalue="70%"></prop>
+            <prop name="background-size" shadowvalue="100%"></prop>
+            <prop name="background-color" shadowvalue="transparent"></prop>
           </mutation>
           <value name="PROP0">
-            <shadow type="positionDropdown" id="_R/8).hqcMmI_)$,3RzC">
+            <shadow type="positionDropdown" id="7#Lh`)HLZ$?t.5zl-C`(">
               <field name="TEXT">absolute</field>
             </shadow>
           </value>
           <value name="PROP1">
-            <shadow type="text" id="1GbIsD8PO!#H$Tr]4]@q">
+            <shadow type="text" id="mIm;sQ[d4$.2XG;HBd[[">
               <field name="TEXT">30px</field>
             </shadow>
           </value>
           <value name="PROP2">
-            <shadow type="text" id="4(wB7j1h#=]`#3G|vR|2">
+            <shadow type="text" id="^8}@NON;kGJ732Z|x$fd">
               <field name="TEXT">30px</field>
             </shadow>
           </value>
           <value name="PROP3">
-            <shadow type="text" id="3r~vKTO%?E=AT`8dDvIk">
+            <shadow type="text" id="V]uZFQB[[T3rPatZ5kjx">
               <field name="TEXT">url('dot.gif')</field>
             </shadow>
           </value>
           <value name="PROP4">
-            <shadow type="text" id="=rm%{dA)*xAR`6+Lg}f9">
+            <shadow type="text" id="wH6M7v17;hW{.Ryvp)N~">
               <field name="TEXT">center</field>
             </shadow>
           </value>
           <value name="PROP5">
-            <shadow type="text" id="|?P*%HN6lBD5)8o*u;1d">
+            <shadow type="text" id="aPk}6qaAV@KRj3~*h*3S">
               <field name="TEXT">0px</field>
             </shadow>
           </value>
           <value name="PROP6">
-            <shadow type="text" id="i7_8gV;!AgzMz(%NKV/j">
+            <shadow type="text" id="X|dQ{v/k:I)hf7`f7+(M">
               <field name="TEXT">none</field>
             </shadow>
           </value>
           <value name="PROP7">
-            <shadow type="text" id="EqC,]lx;53DrOTriz5nJ">
+            <shadow type="text" id="=a%@P#a^e4/~lvt`~utG">
               <field name="TEXT">no-repeat</field>
             </shadow>
           </value>
           <value name="PROP8">
-            <shadow type="text" id="$dFP_Q?5xJ)E$vs3Wtu#">
+            <shadow type="text" id="WX*l:0ym9j4wj%Gw-UfG">
               <field name="TEXT">100%</field>
+            </shadow>
+          </value>
+          <value name="PROP9">
+            <shadow type="text" id="6;jua}V,%y,3QvYu9z`/">
+              <field name="TEXT">transparent</field>
             </shadow>
           </value>
         </block>
